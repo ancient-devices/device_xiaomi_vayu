@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "kernel_xiaomi_vayu",
+    "target_path": "kernel/xiaomi/vayu",
+    "branch": "twelve"
+  },
+  {
+    "repository": "vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu",
+    "branch": "twelve"
+  },
+{
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "twelve"
+  }
+]
